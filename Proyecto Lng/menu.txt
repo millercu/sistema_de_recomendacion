@@ -1,0 +1,40 @@
+Nombre del Plato,Descripción,Tipo de Comida,Precio (COP),Grasas (g),Proteínas (g),Carbohidratos (g),Calorías,Nivel de Picante,Tamaño de Porción,Temporada,Tipo de Dieta,Nivel de Dificultad, Tiempo de Preparación (min),Ingredientes Principales,Origen Culinario,Alergenos
+Pasta Alfredo,Fettuccine en salsa Alfredo con pollo y parmesano,Almuerzo,42.000,15,25,35,320,Sin picante,Regular, -, -, Fácil, 30, Pollo, Italiana, Lácteos
+Hamburguesa Clásica,Carne de res, lechuga, tomate, cebolla, papas fritas,Comida Rápida,28.500,20,15,30,380,Sin picante,Regular, -, -, Fácil, 20, Carne, -, Lácteos
+Ensalada César,Lechuga romana, aderezo César, crutones y parmesano,Almuerzo,30.000,12,10,20,220,Sin picante,Regular, -, -, Fácil, 15, -, Italiana, Lácteos, Gluten
+Pizza Margarita,Masa de pizza con tomate, mozzarella y albahaca,Almuerzo,35.000,8,12,30,270,Sin picante,Regular, -, -, Fácil, 25, -, Italiana, Lácteos, Gluten
+Tacos Veganos,Tortillas de maíz con frijoles, aguacate y pico de gallo,Vegano,24.500,4,6,15,180,Sin picante,Regular, -, Vegano, Fácil, 20, -, Mexicana, Gluten
+Sushi de Salmón,Rollo de sushi con salmón, aguacate y arroz,Almuerzo,55.000,5,20,40,340,Sin picante,Regular, -, -, Fácil, 25, Salmón, Japonesa, Pescado
+Hot Dog Clásico,Salchicha, pan, ketchup, mostaza y cebolla,Comida Rápida,20.000,12,8,25,290,Sin picante,Regular, -, -, Fácil, 15, Carne, -, Gluten
+Pastel de Chocolate,Pastel de chocolate con ganache y fresas,Postre,22.500,18,4,45,420,Sin picante,Regular, -, -, Fácil, 45, Chocolate, -, Lácteos
+Lasagna de Espinacas,Lasagna con espinacas y ricotta,Almuerzo,47.000,15,12,35,330,Sin picante,Regular, -, -, Moderado, 40, Pollo, Italiana, Lácteos
+Ensalada de Frutas,Mezcla de frutas frescas con yogur,Postre,19.500,2,4,30,150,Sin picante,Regular, Verano, -, Fácil, 10, -, -, Lácteos
+Tofu a la Parrilla,Tofu a la parrilla con verduras, arroz y salsa de soya,Vegano,42.500,6,15,40,290,Sin picante,Regular, -, Vegano, Fácil, 30, Tofu, Asiática, Gluten
+Papas Fritas,Crujientes papas fritas,Comida Rápida,15.000,14,2,30,260,Sin picante,Regular, -, -, Fácil, 20, -, -, Gluten
+Pollo a la Parrilla,Pollo a la parrilla con puré de papas y vegetales,Almuerzo,50.500,10,18,35,360,Sin picante,Regular, -, -, Fácil, 40, Pollo, -, Lácteos
+Brownie con Helado,Brownie caliente con helado de vainilla y salsa de chocolate,Postre,27.000,12,6,40,380,Sin picante,Regular, -, -, Fácil, 35, Chocolate, -, Lácteos
+Burrito Vegetariano,Burrito con frijoles, arroz, aguacate y salsa,Vegano,28.500,5,10,25,260,Sin picante,Regular, -, Vegano, Fácil, 25, -, Mexicana, Gluten
+Sopa de Tomate,Sopa de tomate casera con crutones,Almuerzo,19.500,4,2,15,120,Sin picante,Regular, -, -, Fácil, 30, Tomate, -, Gluten
+Tarta de Manzana,Tarta de manzana con helado de canela,Postre,15.500,8,4,35,290,Sin picante,Regular, Otoño, -, Fácil, 40, Manzana, -, Gluten
+Perrito Vegano,Salchicha vegana en pan integral,Comida Rápida,28.000,2,10,20,180,Sin picante,Regular, -, Vegano, Fácil, 15, -, -, Gluten
+Enchiladas de Pollo,Enchiladas rellenas de pollo con salsa roja,Almuerzo,42.500,15,14,30,320,Medio picante,Regular, -, -, Moderado, 35, Pollo, Mexicana, Gluten
+Té Verde Matcha,Té verde matcha con leche de almendra,Postre,13.000,1,0,5,40,Sin picante,Regular, -, -, Fácil, 5, Té, Asiática, Lácteos
+Parrillada Mixta,Parrillada de carnes con papas y chimichurri,Almuerzo,65.000,30,28,45,580,Sin picante,Regular, -, -, Moderado, 50, Carne, -, Gluten
+Helado de Vainilla,Tres bolas de helado de vainilla con toppings,Postre,16.500,8,6,35,290,Sin picante,Regular, Verano, -, Fácil, 10, Vainilla, -, Lácteos
+Pasta Pesto,Pasta con salsa pesto y piñones,Almuerzo,38.000,20,10,40,420,Sin picante,Regular, -, -, Fácil, 35, Pasta, Italiana, Lácteos, Frutos Secos
+Sándwich de Pollo,Sándwich de pollo a la parrilla con aguacate,Comida Rápida,26.500,8,16,30,350,Sin picante,Regular, -, -, Fácil, 15, Pollo, -, Gluten
+Pancakes con Jarabe,Pancakes con jarabe de arce y frutas,Desayuno,22.500,6,10,40,320,Sin picante,Regular, -, -, Fácil, 30, -, -, Lácteos
+Tacos de Camarones,Tacos de camarones a la diabla con aguacate,Almuerzo,48.000,10,24,35,410,Medio picante,Regular, -, -, Fácil, 35, Camarones, Mexicana, Gluten
+Mousse de Chocolate,Mousse de chocolate con crema batida,Postre,18.000,12,4,30,270,Sin picante,Regular, -, -, Fácil, 25, Chocolate, -, Lácteos
+Sopa de Lentejas,Sopa de lentejas con zanahorias y apio,Almuerzo,24.500,3,8,20,180,Sin picante,Regular, Invierno, -, Fácil, 40, Lentejas, -, -
+Tofu a la BBQ,Tofu a la parrilla con salsa BBQ y maíz,Vegano,36.500,4,14,25,240,Sin picante,Regular, -, Vegano, Fácil, 30, Tofu, -, Gluten
+Nachos con Queso,Nachos con queso cheddar y jalapeños,Comida Rápida,19.000,12,6,35,310,Medio picante,Regular, -, -, Fácil, 20, -, Mexicana, Lácteos, Gluten
+Filete de Salmón,Filete de salmón a la parrilla con puré de papas,Almuerzo,56.000,20,28,35,450,Sin picante,Regular, -, -, Moderado, 40, Salmón, -, Lácteos
+Crepe de Nutella,Crepe relleno de Nutella y plátano,Postre,21.500,10,6,25,290,Sin picante,Regular, -, -, Fácil, 20, Nutella, -, Gluten
+Sándwich Vegetariano,Sándwich vegetariano con hummus y verduras frescas,Vegano,27.500,6,8,30,260,Sin picante,Regular, -, Vegano, Fácil, 15, -, -, Gluten
+Sopa de Champiñones,Sopa de champiñones con cebolla frita,Almuerzo,23.500,5,4,20,150,Sin picante,Regular, -, -, Fácil, 30, Champiñones, -, Gluten
+Pudín de Tapioca,Pudín de tapioca con coco y frutas tropicales,Postre,20.000,5,2,25,210,Sin picante,Regular, Verano, -, Fácil, 35, Tapioca, -, -
+Pollo al Curry,Pollo al curry con arroz basmati,Almuerzo,46.000,14,16,35,370,Medio picante,Regular, -, -, Moderado, 45, Pollo, Asiática, Lácteos
+Pastel de Zanahoria,Pastel de zanahoria con crema de queso,Postre,25.000,10,6,40,320,Sin picante,Regular, -, -, Fácil, 40, Zanahoria, -, Lácteos
+Tacos de Barbacoa,Tacos de barbacoa de res con cebolla y cilantro,Almuerzo,34.500,18,20,35,410,Medio picante,Regular, -, -, Fácil, 30, Carne de res, Mexicana, Gluten
+Té de Hierbabuena,Té de hierbabuena con miel,Postre,9.500,0,0,2,10,Sin picante,Regular, -, -, Fácil, 5, Hierbabuena, -, -
